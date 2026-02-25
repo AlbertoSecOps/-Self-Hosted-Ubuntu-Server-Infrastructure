@@ -1,6 +1,9 @@
 # 🖥️ Self-Hosted Ubuntu Server Infrastructure
 > Lightweight • Secure • Containerized • VPN-Only Access
 
+<img width="500" height="300" alt="casaOS" src="https://github.com/user-attachments/assets/83986ff7-fb57-476f-b30f-4e8fb1c46cf0" />  <img width="400" height="1000" alt="Ubuntu-logo" src="https://github.com/user-attachments/assets/a8d0aaa1-9b3c-4f1a-a71a-6637f10f8801" />
+
+
 ---
 
 ## 📌 Project Overview
